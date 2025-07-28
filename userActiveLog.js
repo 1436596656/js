@@ -1,6 +1,6 @@
 var t1 = new Date().getTime();
 // 获取浏览器你去类型和版本 手机端直接获取手机型号
-// 0728 14:05
+// 0728 14:20
 function getBrowserInfo() {
   let agent = navigator.userAgent.toLowerCase();
   let regStr_ie = /msie[\d.]+/gi;
